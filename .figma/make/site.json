@@ -1,4 +1,7 @@
 {
   "title": "Blooms PH — Artisanal Florals & Same-Day Delivery",
-  "description": "Artisanal floral boutique and same-day flower delivery in Metro Manila."
+  "description": "Artisanal floral boutique and same-day flower delivery in Metro Manila.",
+  "icons": {
+    "icon": "/favicon.svg"
+  }
 }
